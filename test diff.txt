@@ -1,0 +1,1 @@
+open .epf file with Knime software
