@@ -18,22 +18,22 @@ The specific objective of this Study was to investigate the advertising strategy
 *<img width="794" alt="image" src="https://user-images.githubusercontent.com/109578693/221911588-6612df4c-e57d-455d-9ef0-5d6c8868d035.png">
 
 *Score of statistic
-<img width="338" alt="image" src="https://user-images.githubusercontent.com/109578693/221912437-0c617627-5074-49f4-b1f5-7ab661887f0f.png">
+**<img width="338" alt="image" src="https://user-images.githubusercontent.com/109578693/221912437-0c617627-5074-49f4-b1f5-7ab661887f0f.png">
 
 *Score of decition tree learner
-<img width="341" alt="image" src="https://user-images.githubusercontent.com/109578693/221912220-402b3b65-3358-49d4-aed6-aa2a5f8f92ec.png">
+**<img width="341" alt="image" src="https://user-images.githubusercontent.com/109578693/221912220-402b3b65-3358-49d4-aed6-aa2a5f8f92ec.png">
 
 *Score of random forest lerner
-<img width="341" alt="image" src="https://user-images.githubusercontent.com/109578693/221912922-c0383276-2820-4478-8980-a72b440cbc9e.png">
+**<img width="341" alt="image" src="https://user-images.githubusercontent.com/109578693/221912922-c0383276-2820-4478-8980-a72b440cbc9e.png">
 
 *Table view of salary
-<img width="724" alt="image" src="https://user-images.githubusercontent.com/109578693/221915077-8e32961b-8126-4da0-9fc5-4440aef703f8.png">
+**<img width="724" alt="image" src="https://user-images.githubusercontent.com/109578693/221915077-8e32961b-8126-4da0-9fc5-4440aef703f8.png">
 
 *Column filter of salary
-<img width="248" alt="image" src="https://user-images.githubusercontent.com/109578693/221916429-ac82e590-e256-4074-9808-7924d7fca4b0.png">
+**<img width="248" alt="image" src="https://user-images.githubusercontent.com/109578693/221916429-ac82e590-e256-4074-9808-7924d7fca4b0.png">
 
 *Bar chart
-<img width="704" alt="image" src="https://user-images.githubusercontent.com/109578693/221915354-516ff463-5447-495a-8994-6dc88b8ee1ae.png">
+**<img width="704" alt="image" src="https://user-images.githubusercontent.com/109578693/221915354-516ff463-5447-495a-8994-6dc88b8ee1ae.png">
 
 
 ### Results
