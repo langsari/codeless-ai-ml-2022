@@ -14,26 +14,36 @@ The specific objective of this Study was to investigate the advertising strategy
 4.	EstimatedSalary 
 5.	Purchased 
 ### Model
-*<img width="776" alt="image" src="https://user-images.githubusercontent.com/109578693/221911433-a4f1dbc3-8c09-4f11-aa1d-578bbd9b3fef.png">
-*<img width="794" alt="image" src="https://user-images.githubusercontent.com/109578693/221911588-6612df4c-e57d-455d-9ef0-5d6c8868d035.png">
+#### <img width="437" alt="image" src="https://user-images.githubusercontent.com/109578693/222183286-4c65211b-e577-4739-bd6c-d608f7986a19.png">
+#### <img width="463" alt="image" src="https://user-images.githubusercontent.com/109578693/222183404-2e66358e-fe3d-4e6f-8b58-a1c520830123.png">
+
+#### Data transform
+<img width="477" alt="image" src="https://user-images.githubusercontent.com/109578693/222185869-b5b35125-ce6a-4f17-bc16-564afa041893.png">
+#### Data understanding
+<img width="386" alt="image" src="https://user-images.githubusercontent.com/109578693/222186087-6ab212e6-6df2-4ded-988d-1dd9c323c519.png">
+#### Evolution 
+<img width="233" alt="image" src="https://user-images.githubusercontent.com/109578693/222186267-1f21400c-d1b2-4450-9375-60e03d9a7d13.png">
+
 
 *Score of statistic
-**<img width="338" alt="image" src="https://user-images.githubusercontent.com/109578693/221912437-0c617627-5074-49f4-b1f5-7ab661887f0f.png">
+<img width="341" alt="image" src="https://user-images.githubusercontent.com/109578693/222183618-ad99d74e-9688-455e-b483-85d382ae6806.png">
 
 *Score of decition tree learner
-**<img width="341" alt="image" src="https://user-images.githubusercontent.com/109578693/221912220-402b3b65-3358-49d4-aed6-aa2a5f8f92ec.png">
+<img width="341" alt="image" src="https://user-images.githubusercontent.com/109578693/222183798-bbc40d3a-a0da-4ebe-9c15-18fb13bdac42.png">
 
 *Score of random forest lerner
-**<img width="341" alt="image" src="https://user-images.githubusercontent.com/109578693/221912922-c0383276-2820-4478-8980-a72b440cbc9e.png">
+<img width="341" alt="image" src="https://user-images.githubusercontent.com/109578693/222183913-79ab6acf-90eb-419e-81f7-92fbff7ffe18.png">
 
-*Table view of salary
-**<img width="724" alt="image" src="https://user-images.githubusercontent.com/109578693/221915077-8e32961b-8126-4da0-9fc5-4440aef703f8.png">
+### Data understanding
+*Bar chart Gender
+<img width="758" alt="image" src="https://user-images.githubusercontent.com/109578693/222184428-dbcbf02f-8078-4b4f-b007-dc36452e7628.png">
 
-*Column filter of salary
-**<img width="248" alt="image" src="https://user-images.githubusercontent.com/109578693/221916429-ac82e590-e256-4074-9808-7924d7fca4b0.png">
+*Bar chart Age
+<img width="758" alt="image" src="https://user-images.githubusercontent.com/109578693/222184677-55472154-437e-42f4-b7ee-a1d4040a025d.png">
 
-*Bar chart
-**<img width="704" alt="image" src="https://user-images.githubusercontent.com/109578693/221915354-516ff463-5447-495a-8994-6dc88b8ee1ae.png">
+*Bar chart Estimate salary
+<img width="758" alt="image" src="https://user-images.githubusercontent.com/109578693/222184863-cd3c16f8-a2f9-4e72-afad-b1478a4e69b5.png">
+
 
 
 ### Results
