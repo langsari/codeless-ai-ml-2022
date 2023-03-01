@@ -25,23 +25,23 @@ The specific objective of this Study was to investigate the advertising strategy
 <img width="233" alt="image" src="https://user-images.githubusercontent.com/109578693/222186267-1f21400c-d1b2-4450-9375-60e03d9a7d13.png">
 
 
-*Score of statistic
+#### Score of statistic
 <img width="341" alt="image" src="https://user-images.githubusercontent.com/109578693/222183618-ad99d74e-9688-455e-b483-85d382ae6806.png">
 
-*Score of decition tree learner
+#### Score of decition tree learner
 <img width="341" alt="image" src="https://user-images.githubusercontent.com/109578693/222183798-bbc40d3a-a0da-4ebe-9c15-18fb13bdac42.png">
 
-*Score of random forest lerner
+#### Score of random forest lerner
 <img width="341" alt="image" src="https://user-images.githubusercontent.com/109578693/222183913-79ab6acf-90eb-419e-81f7-92fbff7ffe18.png">
 
 ### Data understanding
-*Bar chart Gender
+##### Bar chart Gender
 <img width="758" alt="image" src="https://user-images.githubusercontent.com/109578693/222184428-dbcbf02f-8078-4b4f-b007-dc36452e7628.png">
 
-*Bar chart Age
+##### Bar chart Age
 <img width="758" alt="image" src="https://user-images.githubusercontent.com/109578693/222184677-55472154-437e-42f4-b7ee-a1d4040a025d.png">
 
-*Bar chart Estimate salary
+##### Bar chart Estimate salary
 <img width="758" alt="image" src="https://user-images.githubusercontent.com/109578693/222184863-cd3c16f8-a2f9-4e72-afad-b1478a4e69b5.png">
 
 
