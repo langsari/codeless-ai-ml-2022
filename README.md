@@ -19,9 +19,9 @@ The specific objective of this Study was to investigate the advertising strategy
 
 #### Data transform
 <img width="477" alt="image" src="https://user-images.githubusercontent.com/109578693/222185869-b5b35125-ce6a-4f17-bc16-564afa041893.png">
-#### Data understanding
+##### Data understanding
 <img width="386" alt="image" src="https://user-images.githubusercontent.com/109578693/222186087-6ab212e6-6df2-4ded-988d-1dd9c323c519.png">
-#### Evolution 
+##### Evolution 
 <img width="233" alt="image" src="https://user-images.githubusercontent.com/109578693/222186267-1f21400c-d1b2-4450-9375-60e03d9a7d13.png">
 
 
